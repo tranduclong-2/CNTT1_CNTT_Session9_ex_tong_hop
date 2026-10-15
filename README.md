@@ -1,7 +1,7 @@
 ﻿# BÀI 10 STAGE 9 : DỰNG README.MD CHO DỰ ÁN SMARTCAMPUS 
 ## PHẦN 1 & PHẦN 2: Nội dung file `README.md`
 
-# 🚀 SmartCampus
+#  SmartCampus
 
 Ứng dụng di động **giúp sinh viên PTIT** tra cứu lịch học, phòng trống và *nhận thông báo mới nhất* từ nhà trường.
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 💻 Hướng dẫn Cài đặt Dự án
+##  Hướng dẫn Cài đặt Dự án
 
 ```bash
 git clone [https://github.com/clb-lap-trinh/smartcampus.git](https://github.com/clb-lap-trinh/smartcampus.git)
@@ -28,7 +28,7 @@ npm start
 
 ```
 
-## ✅ Trạng thái công việc
+##  Trạng thái công việc
 
 -   [x] Tra cứu lịch học theo mã sinh viên
     
@@ -39,7 +39,7 @@ npm start
 -   [ ] Đăng nhập bằng tài khoản trường
     
 
-## 📊 Thư viện sử dụng
+## Thư viện sử dụng
 
 **Thư viện**
 
